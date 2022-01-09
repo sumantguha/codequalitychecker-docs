@@ -11,10 +11,13 @@ It's recommended to use the latest version of Python. `CodeQualityChecker` suppo
 homebrew is installed)
 
 ### Installing the checker
-Clone the repo: `git@github.com:sumantguha/CodeQualityChecker.git`
+Clone the repo: `<git@github.com:sumantguha/CodeQualityChecker.git>`
 
 ### Dependecies
-Run `python3 -m pip install -r requirements.txt` to install all the required dependencies.
+Run `<python3 -m pip install -r requirements.txt>` to install all the required dependencies.
 
 ### Running the checker
-Run `python3 main.py config_path debug=False post_to_ed=True`
+Run `<python3 main.py config_path [-v -no_ed]>`
+Flags:
+* `-v`: verbose mode
+* `-no_ed`: don't post to ed
