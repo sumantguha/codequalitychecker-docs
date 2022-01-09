@@ -1,0 +1,1 @@
+# Code Quality Checker Docs
