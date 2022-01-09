@@ -5,4 +5,10 @@
 layout: home
 ---
 
-Code Quality Checker for Java Programs. Linter for Java files that presents all code quality errors in a text/web based format. Take a look at the Installation section and the Documentation section to get an overview of the code quality checker's use cases. The CodeDocumentation section has a more detailed reference of the workings and is helpful for contribution!
+# Code Quality Checker
+
+## What is this checker?
+Real time code quality linter for Java Programs, designed for CSE 142. Documents and presents all code quality errors in a text based format. Automatically posts annotations to [Ed](https://edstem.org/us/). Take a look at the Installation section and the Documentation section to get an overview of the code quality checker's use cases. The Code Documentation section has a more detailed reference of the workings and is helpful for contribution!
+
+## Credits
+Built by Sumant Guha, Andrew Cheung, and Kelvin Ng. The course site has been developed using Just the Docs.
