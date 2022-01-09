@@ -5,18 +5,4 @@
 layout: home
 ---
 
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Code Quality Checker for Java Programs. Linter for Java files that presents all code quality errors in a text/web based format. Take a look at the Installation section and the Documentation section to get an overview of the code quality checker's use cases. The CodeDocumentation section has a more detailed reference of the workings and is helpful for contribution!
