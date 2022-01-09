@@ -1,2 +1,3 @@
-title: "Remote theme example"
+title: "Code Quality Checker"
 remote_theme: pmarsceill/just-the-docs
+color_scheme: light
