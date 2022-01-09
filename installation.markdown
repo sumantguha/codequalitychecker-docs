@@ -18,6 +18,7 @@ Run `<python3 -m pip install -r requirements.txt>` to install all the required d
 
 ### Running the checker
 Run `<python3 main.py config_path [-v -no_ed]>`
-Flags:
+
+Optional Flags:
 * `-v`: verbose mode
 * `-no_ed`: don't post to ed
