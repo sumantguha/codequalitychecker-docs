@@ -17,8 +17,9 @@ Clone the repo: `git@github.com:sumantguha/CodeQualityChecker.git`
 Run `python3 -m pip install -r requirements.txt` to install all the required dependencies.
 
 ### Running the checker
-Run `python3 main.py config_path [-v -no_ed]`
+Run `python3 main.py config_path [-v -no_ed -no_pull]`
 
 Optional Flags:
 * `-v`: verbose mode
 * `-no_ed`: don't post to ed
+* * `-no_pull`: don't pull from ed
